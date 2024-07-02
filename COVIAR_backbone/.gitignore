@@ -1,0 +1,15 @@
+/logs
+/LOGITS
+/multimodal_pred
+/multimodal_pred_hmdb
+/scaling_coefficients
+/checkpoints
+/COVIAR
+/datalists
+/list_acc_cost
+*.pkl
+*.npy
+/logits/
+__pycache__
+/lists/
+/figures/
